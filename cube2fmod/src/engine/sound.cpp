@@ -280,6 +280,7 @@ void resetchannels()
 
 void clear_sound()
 {
+	// free all sound resources
     closemumble();
     if(nosound) return;
     stopmusic();
