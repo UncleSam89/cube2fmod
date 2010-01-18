@@ -1,0 +1,34 @@
+nosound
+
+initsound - initialize sound system
+updatesounds - called in main game loop
+playsound - gets called in fps.cpp every time sounds needs to be played
+resetsound - reset the sounds system
+setmusicvol - set the music volume
+stopmusic - stop the music system
+aviwriter - video(and audio) capture system?
+
+sound - wrapper function of sorts
+
+
+
+2d sounds
+---------
+ui sounds
+player footsteps
+player sounds
+player guns
+
+
+3dsounds
+--------
+monster footsteps
+monster sounds (growls)
+moster weapons
+monster projectiles
+enviroment sounds
+
+
+possible occlusion sounds
+-------------------------
+all existing 3d sounds
