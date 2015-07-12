@@ -1,0 +1,1 @@
+I hope to replace SDL audio in the cube2 engine with FMOD, complete with 3D sound, DSP, and occlusion.
